@@ -7,6 +7,8 @@ This is a nodejs script to Enroll in all [250 Free Udemy Course Coupons](https:/
 
 Automated_250_Udemy_Courses requires [Node.js](https://nodejs.org/) v8+ to run.
 
+- Add google credentials in credentials.js file without which the script won't proceed further after the login page
+
 Install the dependencies and devDependencies and start the server.
 
 ```sh
@@ -21,6 +23,8 @@ $ node app
  - Refractor Code
  - Add Multiple Login support
 
+Screenshot :
+![Alt text](/Screenshot from 2017-10-14 01-43-48.png?raw=true "Enrolled Courses")
 License
 ----
 
