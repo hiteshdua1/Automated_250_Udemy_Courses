@@ -24,7 +24,7 @@ $ node app
  - Add Multiple Login support
 
 Screenshot :
-![Alt text](/Screenshot from 2017-10-14 01-43-48.png?raw=true "Enrolled Courses")
+![Alt text](/screenshot_enrolled.png?raw=true "Enrolled Courses")
 License
 ----
 
