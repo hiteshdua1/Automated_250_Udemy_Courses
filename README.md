@@ -20,7 +20,7 @@ $ node app
 
 ### Todos
 
- - Refractor Code
+ - Refactor Code
  - Add Multiple Login support
 
 Screenshot :
